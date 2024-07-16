@@ -1,1 +1,13 @@
-*
+* {
+  padding: 0;
+  margin: 0;
+  background-color: transparent;
+}
+.hero {
+  width: 100%;
+  height: 100vh;
+  background-image: url("bod.jpg");
+  background-size: cover;
+  position: relative;
+  overflow: hidden; 
+}
